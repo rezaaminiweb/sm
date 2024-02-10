@@ -15,7 +15,7 @@
 }
 .topbarCenter{
     flex: 5;
-    background-color: red;
+    /* background-color: red; */
 }
 .topbarRight{
     flex: 2;
@@ -24,4 +24,10 @@
 .topbarImg{
     width: 32px;
     height: 32px;
+}
+.searchbar{
+    width: 100%;
+    height: 30px;
+    background-color: white;
+    border-radius: 10px;
 }
